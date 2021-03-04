@@ -2,6 +2,6 @@
 
 This is my resume website
 
-![Alt text](assets/images/s1.png?raw=true "Title")
-![Alt text](assets/images/s1.png?raw=true "Title")
-![Alt text](rassets/images/s1.png?raw=true "Title")
+![Alt text](assets/images/s1.png?raw=true "Screenshot 1")
+![Alt text](assets/images/s2.png?raw=true "Screenshot 2")
+![Alt text](assets/images/s3.png?raw=true "Screenshot 3")
